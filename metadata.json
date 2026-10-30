@@ -1,0 +1,7 @@
+{
+  "name": "AgriSmart AI – AI for Agriculture",
+  "description": "Comprehensive AI-powered smart agriculture platform featuring crop disease detection, soil NPK analysis, crop recommendations, weather forecasting, and farm analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
